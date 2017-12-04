@@ -20,7 +20,7 @@ var layout = {
                     "showToolbox": "false"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///home/neon/Zesty Zapus 4096x2304.png"
+                    "Image": "file:///usr/share/wallpapers/United/Zesty Zapus 4096x2304.png"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
