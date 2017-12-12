@@ -34,18 +34,6 @@ var layout = {
                     "config": {
                         "/": {
                             "immutability": "1"
-                        },
-                        "/Configuration/General": {
-                            "expanding": "false",
-                            "length": "64"
-                        }
-                    },
-                    "plugin": "org.kde.plasma.panelspacer"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
                         }
                     },
                     "plugin": "org.kde.plasma.appmenu"
@@ -98,12 +86,12 @@ var layout = {
                     "DialogWidth": "1920"
                 }
             },
-            "height": 2,
+            "height": 1.6,
             "hiding": "normal",
             "location": "top",
             "maximumLength": 1000,
             "minimumLength": 1000,
-            "offset": 0
+            "offset": 4
         },
         {
             "alignment": "right",
