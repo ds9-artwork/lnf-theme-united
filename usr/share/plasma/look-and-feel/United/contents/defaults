@@ -14,8 +14,8 @@ LayoutName=org.kde.breeze.desktop
 LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.breeze
-theme=
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__ambiance
 
 [plasmarc][Theme]
 name=UnityAmbiance
