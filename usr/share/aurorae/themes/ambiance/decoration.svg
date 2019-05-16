@@ -14,7 +14,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="decoration.svg"
    inkscape:export-filename="/home/anton/Teman/mockups/lucidwinedition.png"
    inkscape:export-xdpi="90"
@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="341.69642"
-     inkscape:cy="394.27095"
+     inkscape:zoom="11.313708"
+     inkscape:cx="583.16634"
+     inkscape:cy="525.1133"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="847"
-     inkscape:window-x="-1"
-     inkscape:window-y="0"
+     inkscape:window-width="1848"
+     inkscape:window-height="1035"
+     inkscape:window-x="72"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -961,7 +961,7 @@
          id="path3037"
          transform="translate(0,452.36218)" />
       <path
-         style="fill:#f7f5f2;fill-opacity:1;stroke:none"
+         style="fill:#242424;fill-opacity:1;stroke:none"
          d="m -570,560.36218 0,353 490,0 0,-353 -490,0 z"
          id="path4656" />
     </g>
