@@ -8,6 +8,7 @@ Homepage: https://store.kde.org/p/1167950/
 
 Package: lnf-theme-united
 Architecture: all
-Depends: ${misc:Depends}
+Depends: dmz-cursor-theme,
+         ${misc:Depends}
 Description: united LNF theme for Plasma 5
  This package contains the United LNF theme
